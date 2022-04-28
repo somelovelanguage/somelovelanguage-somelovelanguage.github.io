@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:51:34.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="-7zcHX5TiJVJlfNNb5Lm" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:52:10.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Mak60wdlsatuFiAarUL0" version="17.4.6" type="github">
   <diagram id="gIqQ2kbbBcfebHO3eggo" name="Page-1">
     <mxGraphModel dx="941" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="iBgigeEy0YT0ZLamwS2K-60" value="&lt;font face=&quot;宋体&quot;&gt;事件数据&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=10;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="480" y="460" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iBgigeEy0YT0ZLamwS2K-62" value="微信客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=10;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
